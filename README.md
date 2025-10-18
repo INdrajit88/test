@@ -27,6 +27,9 @@ Each ticket is minted as a unique NFT.
 
 Provides proof of ownership and prevents duplication or fake tickets.
 
+![Uploading image.png…]()
+
+
 💰 Automated Refund System
 
 Event Cancelled? → Full automatic refund to all attendees.
